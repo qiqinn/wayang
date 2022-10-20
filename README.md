@@ -1,4 +1,4 @@
-# Deployment Model CNN (daun pepaya vs daun nangka)
+# Deployment Model CNN (Wayang)
 
 ## Deskripsi singkat
 
