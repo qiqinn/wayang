@@ -45,4 +45,4 @@ Agar dapat memprediksi karakter wayang, data input model harus mengikuti format 
 
 1. Anda akan diberikan URL untuk membuka website berupa `localhost:5000/` atau `127.0.0.1:5000/`.
 1. Buka URL dengan browser, coba masukkan gambar gajah atau singa yang ingin di prediksi.
-1. Anda akan diberikan prediksi bahwa pada gambar tersebut adalah gajah atau singa pada halaman website.
+1. Anda akan diberikan prediksi bahwa pada gambar tersebut adalah karakter wayang bagon, werkudera atau puntadewa pada halaman website.
